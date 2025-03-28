@@ -1,0 +1,3 @@
+no current data, need to wait 4 validation
+
+sample text probably will be formatted, text1, text2 etc.. in addition to labelling for training
